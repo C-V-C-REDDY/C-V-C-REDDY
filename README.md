@@ -6,9 +6,12 @@ Indie Game Developer | Building the Crimson World
 - 🎮 Building original games using Godot Engine & GDScript
 - 🔴 Creator of the Crimson World — a dark fantasy game universe
 - 📚 B.Tech AIML Student
-- 🚀 Shipped 3 games in 3 months
+- 🚀 Shipped 4 games in 4 months
 
 ## My Games :
+
+-> | The Crimson Chase | Dark maze survival - Mage, Pooring, Berserk, Fsm, Fov, Bell Traps |
+[play]( https://cvcreddy.itch.io/the-crimson-chase)
 
 -> | The Crimson Arena | Dark fantasy arena brawler — vampire, Blood Scythe, wave survival, upgrade system |
 [Play]( https://cvcreddy.itch.io/the-crimson-arena) |
