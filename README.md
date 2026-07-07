@@ -31,7 +31,7 @@ I am an engineering student specializing in Artificial Intelligence and Machine 
 This represents my flagship production build, demonstrating cross-engine migration capacity and full backend infrastructure integration.
 
 ### 🛑 [The Crimson Arc](https://cvcreddy.itch.io/the-crimson-arc) (Project 6)
-*A psychological puzzle-platformer engineered to exploit muscle memory and human pattern recognition.*
+*A psychological rage-platformer engineered to exploit muscle memory and human pattern recognition.*
 
 *   **Core Level Design Engineering:** Designed a subversive level configuration architecture spanning 10 distinct mathematical environments ("Voids") built cleanly on a 2-week deadline.
 *   **System Backend Integration:** Integrated an asynchronous LootLocker API network to handle real-time global leaderboard data states and a procedural identity system mapping over 90,000 unique player codenames.
