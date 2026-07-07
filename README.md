@@ -67,7 +67,7 @@ This project represents the culmination of my work in Godot, shifting focus from
 *An action-survival runtime test evaluating entity limits and custom spatial tracking.*
 *   **Key Engineering:** Architected an original "Crimson Domain" area mechanic manipulating projectile fields and variable entity tracking.
 
-#### 🐦 [The Crimson Dream](https://cvcreddy.itch.io/the-crimson-moon) (Project 1)
+#### 🐦 [The Crimson Dream](https://cvcreddy.itch.io/the-crimson-dream) (Project 1)
 *A high-precision physics prototype analyzing micro-reaction timing thresholds.*
 *   **Key Engineering:** Designed predictive obstacle translation speeds utilizing rigid body components tailored for responsive inputs.
 
