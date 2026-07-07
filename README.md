@@ -59,15 +59,15 @@ This project represents the culmination of my work in Godot, shifting focus from
 *A Dark Arena Browler.*
 *   **Key Engineering:** Featuring an original enemy SEEKER
 
-#### 🚪 [The Crimson Chase](https://github.com/your-username/the-crimson-chase) (Project 3)
+#### 🚪 [The Crimson Chase](https://cvcreddy.itch.io/the-crimson-chase) (Project 3)
 *A core pathfinding prototype focused on architectural navigation and real-time sensory mechanics.*
 *   **Key Engineering:** Implemented customized Finite State Machines (FSM), Field of View (FOV) clipping masks, and reactive proximity trigger systems (Bell Traps).
 
-#### 🦇 [The Crimson Hunt](https://github.com/your-username/the-crimson-hunt) (Project 2)
+#### 🦇 [The Crimson Hunt](https://cvcreddy.itch.io/the-crimson-hunt) (Project 2)
 *An action-survival runtime test evaluating entity limits and custom spatial tracking.*
 *   **Key Engineering:** Architected an original "Crimson Domain" area mechanic manipulating projectile fields and variable entity tracking.
 
-#### 🐦 [The Crimson Dream](https://github.com/your-username/the-crimson-dream) (Project 1)
+#### 🐦 [The Crimson Dream](https://cvcreddy.itch.io/the-crimson-moon) (Project 1)
 *A high-precision physics prototype analyzing micro-reaction timing thresholds.*
 *   **Key Engineering:** Designed predictive obstacle translation speeds utilizing rigid body components tailored for responsive inputs.
 
