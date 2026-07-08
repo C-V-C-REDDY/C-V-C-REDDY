@@ -2,8 +2,7 @@
 
 ### 🎮 Indie Game Developer | Specializing in AI & ML | Architect of the *Crimson World* Universe
 
-I am an engineering student specializing in Artificial Intelligence and Machine Learning, leveraging technical frameworks to build highly engaging, mechanical, and psychological gaming experiences. I specialize in rapid prototyping, system architecture layout, and building unified game ecosystems.
-
+I am an engineering student specializing in Artificial Intelligence and Machine Learning, building complete games solo - from mechanics to UI to backend integration. structuring game systems(state machines, managers, save/leaderboard integration) across projects. Designing traps and mechanics that break expected platformer rules, with a bit of procedural generation (name system) mixed in.
 ---
 
 ## ⚡ Executive Summary
@@ -20,7 +19,7 @@ I am an engineering student specializing in Artificial Intelligence and Machine 
 | Domain | Frameworks & Tools |
 | :--- | :--- |
 | **Game Engines** | Godot Engine 4 (GDScript), Unity (C#) |
-| **Backend Integration** | LootLocker SDK (Live Leaderboards, Player Identity Pipelines) |
+| **Backend Integration** | LootLocker SDK (Live Leaderboards, guest login) |
 | **Core Disciplines** | Systems Architecture, Game Loop Optimization, WebGL Target Deployment |
 | **Version Control** | Git, GitHub Architecture |
 
@@ -28,13 +27,13 @@ I am an engineering student specializing in Artificial Intelligence and Machine 
 
 ## 💎 Primary Portfolio Project (Unity Engine)
 
-This represents my flagship production build, demonstrating cross-engine migration capacity and full backend infrastructure integration.
+This represents my flagship production build, demonstrating the jump from Godot to Unity and first use of a third-party SDk.
 
 ### 🛑 [The Crimson Arc](https://cvcreddy.itch.io/the-crimson-arc) (Project 6)
 *A psychological rage-platformer engineered to exploit muscle memory and human pattern recognition.*
 
 *   **Core Level Design Engineering:** Designed a subversive level configuration architecture spanning 10 distinct mathematical environments ("Voids") built cleanly on a 2-week deadline.
-*   **System Backend Integration:** Integrated an asynchronous LootLocker API network to handle real-time global leaderboard data states and a procedural identity system mapping over 90,000 unique player codenames.
+*   **System Backend Integration:** Integrated LootLocker's SDK for guet login, score submission, and leaderboard retrieval using async callbacks. random name generator (90,000+ possible combinations) for leaderboard entries.
 *   **UX Case Study — The Structural Illusion:** Designed custom level transitions where conventional level-completion visual cues bait the player into dropping their guard, immediately followed by real-time physics manipulations dropping the floor out to force reactive execution.
 
 ---
@@ -46,8 +45,7 @@ This project represents the culmination of my work in Godot, shifting focus from
 ### 🛑 [The Crimson Moon](https://cvcreddy.itch.io/the-crimson-moon) (Project 5)
 *A stylized dark fantasy arena brawler featuring dynamic combat multipliers and wave-survival mechanics.*
 
-*   **Flawless UI/UX Architecture:** Designed and implemented a polished, completely seamless user interface framework utilizing custom signals, modular texture button feedback, and responsive state menus.
-*   **Systems Engineering:** Developed a modular enemy wave-spawning controller paired with a state-based upgrade system mapped entirely to complex runtime player interaction triggers.
+*   **Systems Engineering:** Developed a modular enemy wave-spawning controller paired with a state-based upgrade system tied to player level-up triggers during combat.
 
 ---
 
@@ -55,7 +53,7 @@ This project represents the culmination of my work in Godot, shifting focus from
 
 *The following projects were engineered as targeted technical prototypes to master GDScript architecture, state-machine tracking, and engine physics. While scoped as minimal proofs-of-concept rather than commercial releases, each repository features a fully stable, functional, and unbroken runtime build.*
 
-#### 🛑 [The Crimson Arc](https://cvcreddy.itch.io/the-crimson-arena) (Project 4)
+#### 🛑 [The Crimson Arena](https://cvcreddy.itch.io/the-crimson-arena) (Project 4)
 *A Dark Arena Browler.*
 *   **Key Engineering:** Featuring an original enemy SEEKER
 
